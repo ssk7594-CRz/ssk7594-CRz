@@ -54,7 +54,7 @@ seok@dev:~$ cat forge-ake/README
 
 <div align="center">
   <a href="https://forge-ake.com">
-    <img src="https://forge-ake.com/og-image.png" alt="Forge-Ake" width="640" />
+    <img src="./assets/forge-ake.png" alt="Forge-Ake" width="720" />
   </a>
 </div>
 
