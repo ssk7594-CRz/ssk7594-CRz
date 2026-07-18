@@ -29,13 +29,13 @@
   <text x="24" y="132" class="lbl">Codex CLI</text>
   <rect x="24" y="138" width="300" height="14" rx="3" fill="#161b22"/>
   <rect x="24" y="138" width="300" height="14" rx="3" fill="#58a6ff"/>
-  <text x="336" y="149" class="val">1687.2M</text>
+  <text x="336" y="149" class="val">1687.5M</text>
 
   <!-- 우측 요약 패널 -->
   <line x1="410" y1="80" x2="410" y2="200" stroke="#30363d"/>
-  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2875.4M</tspan></text>
-  <text x="432" y="114" class="k">this_month   : <tspan class="v">1442.7M</tspan></text>
-  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2460.52</tspan></text>
+  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2875.7M</tspan></text>
+  <text x="432" y="114" class="k">this_month   : <tspan class="v">1443.0M</tspan></text>
+  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2460.70</tspan></text>
   <text x="432" y="158" class="k">top_model    :</text>
   <text x="432" y="176" class="v">claude-sonnet-4-6</text>
   <text x="432" y="192" class="dim">codex: gpt-5.5</text>

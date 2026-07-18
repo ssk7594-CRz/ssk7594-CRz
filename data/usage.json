@@ -9,16 +9,16 @@
     "topModel": "claude-sonnet-4-6"
   },
   "codex": {
-    "totalTokens": 1687229898,
-    "monthTokens": 1009495403,
-    "cost": 1357.23,
-    "monthCost": 762.61,
-    "dailyAvg": 36678911,
+    "totalTokens": 1687549862,
+    "monthTokens": 1009815367,
+    "cost": 1357.41,
+    "monthCost": 762.79,
+    "dailyAvg": 36685867,
     "topModel": "gpt-5.5"
   },
   "combined": {
-    "totalTokens": 2875374329,
-    "monthTokens": 1442726824,
-    "cost": 2460.52
+    "totalTokens": 2875694293,
+    "monthTokens": 1443046788,
+    "cost": 2460.7
   }
 }
