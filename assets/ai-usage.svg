@@ -35,7 +35,7 @@
   <line x1="410" y1="80" x2="410" y2="200" stroke="#30363d"/>
   <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2881.2M</tspan></text>
   <text x="432" y="114" class="k">this_month   : <tspan class="v">1448.6M</tspan></text>
-  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2464.42</tspan></text>
+  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2464.46</tspan></text>
   <text x="432" y="158" class="k">top_model    :</text>
   <text x="432" y="176" class="v">claude-sonnet-4-6</text>
   <text x="432" y="192" class="dim">codex: gpt-5.5</text>
