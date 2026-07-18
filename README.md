@@ -9,7 +9,7 @@
 
 <!-- [1] 타이핑 애니메이션 헤더 -->
 <a href="https://github.com/ssk7594-CRz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami+-%3E+Founder+%40+Forge-Ake;%24+cat+role.txt+-%3E+Full-stack+Developer;%24+echo+%22AI-native+builder%22" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami+-%3E+Backend+Developer;%24+cat+role.txt+-%3E+Running+Forge-Ake;%24+echo+%22AI-native+builder%22" alt="typing header" />
 </a>
 
 </div>
@@ -20,9 +20,11 @@
 
 ```bash
 seok@dev:~$ whoami
-풀스택 개발자 · Forge-Ake 스튜디오 대표 (founder)
+백엔드 개발자 · Forge-Ake 운영
+seok@dev:~$ cat education.txt
+Codeit 부트캠프 백엔드(Node.js) 트랙 7기 수료
 seok@dev:~$ cat now.txt
-Forge-Ake 기획·개발·운영 중 · AI 페어프로그래밍으로 혼자서 풀스택
+Forge-Ake 백엔드·API 설계/운영 중 · AI 페어프로그래밍으로 개발
 seok@dev:~$ contact --email
 ssk7594@gmail.com
 ```
@@ -30,8 +32,6 @@ ssk7594@gmail.com
 ---
 
 ### `~ $ ai-usage --stats`
-
-> Claude Code + Codex CLI **실사용량**. `scripts/collect-usage.sh` 실행 시 자동 갱신됩니다.
 
 <div align="center">
   <img src="./assets/ai-usage.svg" alt="AI token usage" width="640" />
@@ -62,13 +62,13 @@ seok@dev:~$ cat forge-ake/README
 
 취준·인디 개발자가 자기 앱을 포트폴리오로 등록하고, 서로 피드백하고,
 "가짜 채용"에 지원해 온라인 명함을 받는 커뮤니티 플랫폼.
-공개 포트폴리오 · 채용 페이지 · 지원자 접수/관리자 검토 · 제품 등록·승인 플로우까지
-직접 기획·개발·운영하는 **1인 풀스택 제품**.
+**백엔드를 직접 설계·구축·운영** — 인증, 지원자 접수/관리자 검토 API,
+제품 등록·승인 워크플로우, 배포와 운영 지표까지.
 
 ```text
-role   founder · full-stack (기획 → 개발 → 배포 → 운영)
-stack  React · TypeScript · REST API · 관리자 운영 도구
-scope  포트폴리오/채용/커뮤니티 · 인증 · 승인 워크플로우
+role   backend · 운영 (API 설계 · DB 모델링 · 인증 · 배포/운영)
+stack  Node.js · TypeScript · NestJS · Express · Prisma · PostgreSQL
+scope  인증 · 승인 워크플로우 · 관리자 도구 · REST API
 ```
 
 <div align="center">
@@ -83,7 +83,7 @@ scope  포트폴리오/채용/커뮤니티 · 인증 · 승인 워크플로우
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,prisma,postgres,git,docker,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,nestjs,prisma,postgres,docker,git&theme=dark)
 
 </div>
 
