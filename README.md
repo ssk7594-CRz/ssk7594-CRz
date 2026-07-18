@@ -9,7 +9,7 @@
 
 <!-- [1] 타이핑 애니메이션 헤더 -->
 <a href="https://github.com/ssk7594-CRz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=560&lines=%24+whoami+-%3E+Backend+Developer;%24+cat+stack.txt+-%3E+Node.js+%C2%B7+TypeScript;%24+echo+%22AI-native+developer%22" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami+-%3E+Founder+%40+Forge-Ake;%24+cat+role.txt+-%3E+Full-stack+Developer;%24+echo+%22AI-native+builder%22" alt="typing header" />
 </a>
 
 </div>
@@ -20,9 +20,9 @@
 
 ```bash
 seok@dev:~$ whoami
-백엔드 개발자 (Node.js) · Codeit 부트캠프 7기
+풀스택 개발자 · Forge-Ake 스튜디오 대표 (founder)
 seok@dev:~$ cat now.txt
-스프린트 미션 진행 중 · AI 페어프로그래밍으로 생산성 극대화
+Forge-Ake 기획·개발·운영 중 · AI 페어프로그래밍으로 혼자서 풀스택
 seok@dev:~$ contact --email
 ssk7594@gmail.com
 ```
@@ -46,14 +46,36 @@ ssk7594@gmail.com
 
 ---
 
-### `~ $ ls projects/`
+### `~ $ ./featured-project --run`
 
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| [**nb07-dearcarmate-team5**](https://github.com/ssk7594-CRz/nb07-dearcarmate-team5) | 중고차 딜러 관리 서비스 — 팀 프로젝트 `(담당 파트 채우기)` | `Node.js` `TypeScript` |
-| [**7-sprint-mission**](https://github.com/ssk7594-CRz/7-sprint-mission) | Codeit 백엔드 트랙 7기 스프린트 미션 | `Node.js` |
-| [**sprint3**](https://github.com/ssk7594-CRz/sprint3) | 스프린트 미션 3 | `JavaScript` |
-| [**build-notes**](https://github.com/ssk7594-CRz/build-notes) | 빌드 · 학습 노트 | `Swift` |
+```bash
+seok@dev:~$ cat forge-ake/README
+```
+
+<div align="center">
+  <a href="https://forge-ake.com">
+    <img src="https://forge-ake.com/og-image.png" alt="Forge-Ake" width="640" />
+  </a>
+</div>
+
+> **[ Forge-Ake ](https://forge-ake.com)** — 앱 개발 스튜디오 · 개발자 포트폴리오 커뮤니티
+
+취준·인디 개발자가 자기 앱을 포트폴리오로 등록하고, 서로 피드백하고,
+"가짜 채용"에 지원해 온라인 명함을 받는 커뮤니티 플랫폼.
+공개 포트폴리오 · 채용 페이지 · 지원자 접수/관리자 검토 · 제품 등록·승인 플로우까지
+직접 기획·개발·운영하는 **1인 풀스택 제품**.
+
+```text
+role   founder · full-stack (기획 → 개발 → 배포 → 운영)
+stack  React · TypeScript · REST API · 관리자 운영 도구
+scope  포트폴리오/채용/커뮤니티 · 인증 · 승인 워크플로우
+```
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/▶_Live_Site-forge--ake.com-00FF41?style=for-the-badge&labelColor=0d1117)](https://forge-ake.com)
+
+</div>
 
 ---
 
