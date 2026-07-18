@@ -1,24 +1,24 @@
 {
   "updatedAt": "2026-07-18",
   "claude": {
-    "totalTokens": 2867497393,
-    "monthTokens": 0,
-    "cost": 2455.84,
-    "monthCost": 0,
-    "dailyAvg": 58520355,
-    "topModel": ""
+    "totalTokens": 1188144431,
+    "monthTokens": 433231421,
+    "cost": 1103.29,
+    "monthCost": 547.45,
+    "dailyAvg": 33004012,
+    "topModel": "claude-sonnet-4-6"
   },
   "codex": {
-    "totalTokens": 0,
-    "monthTokens": 0,
-    "cost": 0,
-    "monthCost": 0,
-    "dailyAvg": 0,
-    "topModel": ""
+    "totalTokens": 1687229898,
+    "monthTokens": 1009495403,
+    "cost": 1357.23,
+    "monthCost": 762.61,
+    "dailyAvg": 36678911,
+    "topModel": "gpt-5.5"
   },
   "combined": {
-    "totalTokens": 2867497393,
-    "monthTokens": 0,
-    "cost": 2455.84
+    "totalTokens": 2875374329,
+    "monthTokens": 1442726824,
+    "cost": 2460.52
   }
 }
