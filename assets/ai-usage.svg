@@ -24,23 +24,23 @@
   <text x="24" y="90" class="lbl">Claude Code</text>
   <rect x="24" y="96" width="300" height="14" rx="3" fill="#161b22"/>
   <rect x="24" y="96" width="300" height="14" rx="3" fill="#00FF41"/>
-  <text x="336" y="107" class="val">12.4M</text>
+  <text x="336" y="107" class="val">2867.5M</text>
   
   <text x="24" y="132" class="lbl">Codex CLI</text>
   <rect x="24" y="138" width="300" height="14" rx="3" fill="#161b22"/>
-  <rect x="24" y="138" width="123" height="14" rx="3" fill="#58a6ff"/>
-  <text x="336" y="149" class="val">5.1M</text>
+  <rect x="24" y="138" width="0" height="14" rx="3" fill="#58a6ff"/>
+  <text x="336" y="149" class="val">0</text>
 
   <!-- 우측 요약 패널 -->
   <line x1="410" y1="80" x2="410" y2="200" stroke="#30363d"/>
-  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">17.5M</tspan></text>
-  <text x="432" y="114" class="k">this_month   : <tspan class="v">4.6M</tspan></text>
-  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$68.00</tspan></text>
+  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2867.5M</tspan></text>
+  <text x="432" y="114" class="k">this_month   : <tspan class="v">0</tspan></text>
+  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2455.84</tspan></text>
   <text x="432" y="158" class="k">top_model    :</text>
-  <text x="432" y="176" class="v">claude-opus-4-8</text>
-  <text x="432" y="192" class="dim">codex: gpt-5-codex</text>
+  <text x="432" y="176" class="v">-</text>
+  <text x="432" y="192" class="dim">codex: -</text>
 
   <line x1="24" y1="222" x2="616" y2="222" stroke="#30363d"/>
-  <text x="24"  y="244" class="dim">daily_avg  claude 210.0K  ·  codex 96.0K</text>
+  <text x="24"  y="244" class="dim">daily_avg  claude 58.5M  ·  codex 0</text>
   <text x="616" y="244" text-anchor="end" class="dim">updated 2026-07-18</text>
 </svg>

@@ -1,25 +1,24 @@
 {
   "updatedAt": "2026-07-18",
-  "_note": "샘플 데이터입니다. scripts/collect-usage.sh 를 로컬에서 실행하면 실사용량으로 덮어씁니다.",
   "claude": {
-    "totalTokens": 12400000,
-    "monthTokens": 3120000,
-    "cost": 48.20,
-    "monthCost": 12.10,
-    "dailyAvg": 210000,
-    "topModel": "claude-opus-4-8"
+    "totalTokens": 2867497393,
+    "monthTokens": 0,
+    "cost": 2455.84,
+    "monthCost": 0,
+    "dailyAvg": 58520355,
+    "topModel": ""
   },
   "codex": {
-    "totalTokens": 5100000,
-    "monthTokens": 1440000,
-    "cost": 19.80,
-    "monthCost": 6.30,
-    "dailyAvg": 96000,
-    "topModel": "gpt-5-codex"
+    "totalTokens": 0,
+    "monthTokens": 0,
+    "cost": 0,
+    "monthCost": 0,
+    "dailyAvg": 0,
+    "topModel": ""
   },
   "combined": {
-    "totalTokens": 17500000,
-    "monthTokens": 4560000,
-    "cost": 68.00
+    "totalTokens": 2867497393,
+    "monthTokens": 0,
+    "cost": 2455.84
   }
 }
