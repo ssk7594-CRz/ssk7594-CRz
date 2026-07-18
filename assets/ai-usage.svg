@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" font-family="'Fira Code','JetBrains Mono',monospace">
+  <defs>
+    <style>
+      .lbl{fill:#8b949e;font-size:12px}
+      .val{fill:#00FF41;font-size:13px;font-weight:600}
+      .k{fill:#8b949e;font-size:12px}
+      .v{fill:#e6edf3;font-size:12px;font-weight:600}
+      .title{fill:#00FF41;font-size:13px;font-weight:700}
+      .dim{fill:#8b949e;font-size:11px}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="638" height="268" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <!-- title bar -->
+  <rect x="1" y="1" width="638" height="34" rx="10" fill="#010409"/>
+  <rect x="1" y="20" width="638" height="15" fill="#010409"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="320" y="22" text-anchor="middle" class="dim">seok@dev — ai-usage --stats</text>
+
+  <text x="24" y="62" class="title">$ ai-usage --breakdown</text>
+
+  
+  <text x="24" y="90" class="lbl">Claude Code</text>
+  <rect x="24" y="96" width="300" height="14" rx="3" fill="#161b22"/>
+  <rect x="24" y="96" width="300" height="14" rx="3" fill="#00FF41"/>
+  <text x="336" y="107" class="val">12.4M</text>
+  
+  <text x="24" y="132" class="lbl">Codex CLI</text>
+  <rect x="24" y="138" width="300" height="14" rx="3" fill="#161b22"/>
+  <rect x="24" y="138" width="123" height="14" rx="3" fill="#58a6ff"/>
+  <text x="336" y="149" class="val">5.1M</text>
+
+  <!-- 우측 요약 패널 -->
+  <line x1="410" y1="80" x2="410" y2="200" stroke="#30363d"/>
+  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">17.5M</tspan></text>
+  <text x="432" y="114" class="k">this_month   : <tspan class="v">4.6M</tspan></text>
+  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$68.00</tspan></text>
+  <text x="432" y="158" class="k">top_model    :</text>
+  <text x="432" y="176" class="v">claude-opus-4-8</text>
+  <text x="432" y="192" class="dim">codex: gpt-5-codex</text>
+
+  <line x1="24" y1="222" x2="616" y2="222" stroke="#30363d"/>
+  <text x="24"  y="244" class="dim">daily_avg  claude 210.0K  ·  codex 96.0K</text>
+  <text x="616" y="244" text-anchor="end" class="dim">updated 2026-07-18</text>
+</svg>
