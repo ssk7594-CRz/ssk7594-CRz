@@ -29,18 +29,18 @@
   <text x="24" y="132" class="lbl">Codex CLI</text>
   <rect x="24" y="138" width="300" height="14" rx="3" fill="#161b22"/>
   <rect x="24" y="138" width="300" height="14" rx="3" fill="#58a6ff"/>
-  <text x="336" y="149" class="val">1744.2M</text>
+  <text x="336" y="149" class="val">1744.5M</text>
 
   <!-- 우측 요약 패널 -->
   <line x1="410" y1="80" x2="410" y2="200" stroke="#30363d"/>
-  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2942.9M</tspan></text>
-  <text x="432" y="114" class="k">this_month   : <tspan class="v">1510.2M</tspan></text>
-  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2529.44</tspan></text>
+  <text x="432" y="92"  class="k">total_tokens : <tspan class="v">2943.2M</tspan></text>
+  <text x="432" y="114" class="k">this_month   : <tspan class="v">1510.5M</tspan></text>
+  <text x="432" y="136" class="k">est_cost     : <tspan class="v">$2529.61</tspan></text>
   <text x="432" y="158" class="k">top_model    :</text>
   <text x="432" y="176" class="v">claude-sonnet-4-6</text>
   <text x="432" y="192" class="dim">codex: gpt-5.5</text>
 
   <line x1="24" y1="222" x2="616" y2="222" stroke="#30363d"/>
   <text x="24"  y="244" class="dim">daily_avg  claude 32.4M  ·  codex 37.1M</text>
-  <text x="616" y="244" text-anchor="end" class="dim">updated 2026-07-19</text>
+  <text x="616" y="244" text-anchor="end" class="dim">updated 2026-07-20</text>
 </svg>
