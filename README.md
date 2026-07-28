@@ -31,21 +31,6 @@ ssk7594@gmail.com
 
 ---
 
-### `~ $ ai-usage --stats`
-
-<div align="center">
-  <img src="./assets/ai-usage.svg" alt="AI token usage" width="640" />
-</div>
-
-<div align="center">
-
-![Claude tokens](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ssk7594-CRz/ssk7594-CRz/main/data/badge-claude.json&style=flat-square&color=00FF41&logo=anthropic&logoColor=white)
-![Codex tokens](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ssk7594-CRz/ssk7594-CRz/main/data/badge-codex.json&style=flat-square&color=00FF41&logo=openai&logoColor=white)
-
-</div>
-
----
-
 ### `~ $ ./featured-project --run`
 
 ```bash
